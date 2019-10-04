@@ -450,7 +450,7 @@ void SnakeGame::reprint() {
 }
 
 
-void SnakeGame::ClearScreen()
+void SnakeGame::ClearScreen() // taken from following ref: http://www.cplusplus.com/forum/general/137782/
 {
 	DWORD n;
 	DWORD size;
