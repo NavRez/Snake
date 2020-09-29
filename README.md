@@ -4,4 +4,5 @@ This is an implementation of the 2D line-growing snake games implemented entirel
 
 ## How to Play
 -Can only be executed on a windows PC/laptop.
+
 -Run the executable and use the arrow keys to guide snake
